@@ -1,2 +1,2 @@
-# hello-world
+# Hello world!
 Project of ideas and resources

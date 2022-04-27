@@ -1,3 +1,6 @@
 # Hello world!
 Project of ideas and resources
-::smile::
+:smile:
+
+- Hi, 👋: my nick is ss-vector
+- I'm from Perú 🇵🇪
